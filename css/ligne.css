@@ -1,3 +1,4 @@
 h1 { color: blue; }
 div { font-size: 12px; color: gray; }
-div { text-align: center; }
+.menu { background-color: lightgreen; color: white; }
+
