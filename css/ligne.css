@@ -1,5 +1,5 @@
 h1 { color: blue; }
 div { font-size: 12px; color: gray; text-align: center; }
 p { color: green; }
-.menu { padding: 10px; }
 .menu a { text-decoration: none; }
+.menu { padding: 10px; background-color: lightgreen; color: white; }
